@@ -1,0 +1,55 @@
+#tube-sub-plus{
+	background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflXBOoAR.webp) -699px -126px;
+    background-size: auto;
+    width: 20px;
+    height: 20px;
+}
+
+#tube-sub-input{
+	background: transparent;
+    display: inline-block;
+    font-size: 16px;
+    left: 0;
+    outline: none;
+    padding: 2px 6px;
+    width: 80%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	margin-left: 6%;
+	vertical-align: super;
+	border: 1px solid black;
+}
+
+.tube-sub-folder{
+	margin-top:1%;
+	margin-bottom: 1%;
+    width: 90%;
+    background: #cc181e;
+    padding: 7px;
+    color: white;
+    text-shadow: -1px -1px 0 rgba(0,0,0,0.25);
+    font-family: "YouTube Noto",Roboto,arial,sans-serif;
+    font-size: 100%;
+    position: relative;
+}
+
+.tube-sub-content {
+	margin-left: 5%;
+	border-left: 2px solid #cc181e;
+}
+
+.tube-sub-folder-options{
+	background: no-repeat url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vflXBOoAR.webp) -636px -99px;
+    background-size: auto;
+    height: 17px;
+    z-index: 100;
+    right: 0;
+    position: relative;
+    float: right;
+    top: -23px;
+    width: 23px;
+}
+
+.tube-sub-content > li{
+	width:100%;
+}
